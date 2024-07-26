@@ -1,0 +1,8 @@
+com\mycompany\projectlearning\model\Comment.class
+com\mycompany\projectlearning\proxies\CommentNotificationProxy.class
+com\mycompany\projectlearning\services\CommentService.class
+com\mycompany\projectlearning\Main.class
+com\mycompany\projectlearning\ProjectConfiguration.class
+com\mycompany\projectlearning\repositories\DBCommentRepository.class
+com\mycompany\projectlearning\repositories\CommentRepository.class
+com\mycompany\projectlearning\proxies\EmailCommentNotificationProxy.class
